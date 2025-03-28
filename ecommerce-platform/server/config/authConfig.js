@@ -1,0 +1,1 @@
+Authentication configuration (JWT, OAuth, etc.)
